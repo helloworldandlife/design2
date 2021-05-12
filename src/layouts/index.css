@@ -54,3 +54,17 @@ a {
   border-radius: 20px;
   
 }
+
+@media (max-width: 640px) {
+  .HeroGroup{
+    padding: 100px 20px;
+  }
+
+  .Hero h1 {
+    font-size: 40px;
+  }
+
+  .HeroGroup p {
+    font-size: 24px;
+  }
+}
